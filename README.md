@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# git-wiki
 
-You can use the [editor on GitHub](https://github.com/redditbwf/redditbwf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+it's a **modular and full featured wiki** powered by git, github pages and pull-requests without the needs of local installations/build! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It means: 
 
-### Markdown
+* Improvements in the **cooperative** aspect: forks, pull-requests and roles.
+* You can **customize your wiki** as you want with style sheets and even changing the layout. (see customization section below) 
+* **No databases!** Only static files that can be downloaded in a few seconds.
+* **Blazing fast** and free thankfully to Github Pages and Jekyll Server Side Generation process!
+* **Markdown and html** mixed together!
+* **Multiple free search engines!** on a static site!
+* **History, revision comparison** and everything you need from a wiki platform.
+* You can **edit your pages** with the standard git editor, prose.io (integrated) or any kind of editor you prefer.
+* Non-existent wiki page links are "[red](wiki/red.md)", you can **click on them to automatically create a new page**!
+* [External links](http://www.google.it) get the right icon automatically
+* **Component system with hooks** that allows you to totally customize your wiki UI. (see customization section below) 
+* Some **nice internal themes** to change your entire wiki UI with 1 simple configuration (see customization section below)
+* Integrated **Blogging** feature thanks to jekyll!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can fork/copy the master branch now and start your wiki in just 1 minute.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/redditbwf/redditbwf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Instructions and documentation: (http://drassil.github.io/git-wiki)
