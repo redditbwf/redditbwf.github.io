@@ -1,5 +1,5 @@
 # Welcome to the new Reddit Bodyweight Fitness Wiki!
-Demo by Chrissy
+Just a Proof of Concept - Chris
 
 it's a **modular and full featured wiki** powered by git, github pages and pull-requests without the needs of local installations/build! 
 
