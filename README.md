@@ -1,4 +1,5 @@
-# git-wiki
+# Welcome to the new Reddit Bodyweight Fitness Wiki!
+Demo by Chrissy
 
 it's a **modular and full featured wiki** powered by git, github pages and pull-requests without the needs of local installations/build! 
 
@@ -17,8 +18,3 @@ It means:
 * **Component system with hooks** that allows you to totally customize your wiki UI. (see customization section below) 
 * Some **nice internal themes** to change your entire wiki UI with 1 simple configuration (see customization section below)
 * Integrated **Blogging** feature thanks to jekyll!
-
-You can fork/copy the master branch now and start your wiki in just 1 minute.
-
-
-Instructions and documentation: (http://drassil.github.io/git-wiki)
