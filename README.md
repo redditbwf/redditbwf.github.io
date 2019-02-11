@@ -23,7 +23,7 @@ Welcome to the /r/bodyweightfitness wiki! Bodyweightfitness is for redditors who
 
 # Exercise Routines
 ## Beginner to Intermediate
-* **[The Recommended Routine](/r/bodyweightfitness/wiki/kb/recommended_routine)** which, surprise, is the routine we recommend
+* **[The Recommended Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine)** which, surprise, is the routine we recommend
 * **[Move](https://www.reddit.com/r/bodyweightfitness/wiki/move)**, multiple phase program covering strength, mobility, basic hand balancing and multiple strength skills such as the front lever. Suitable for complete beginners who need a gentle start and intermediate athletes alike
 * **[The Minimalist Routine](https://www.reddit.com/r/bodyweightfitness/wiki/minroutine)**, a quick and simple minimal routine for people who just want to start moving more
 * [**Skill Day Routine**](https://www.reddit.com/r/bodyweightfitness/wiki/kb/skillday), a beginner routine for practicing low-impact skills on your rest days.
