@@ -17,7 +17,7 @@ paginate: 5
 paginate_path: "/blog/page:num"
 permalink: /blog/posts/:year/:month/:day/:title:output_ext
 # (boolean) Enable/disable download buttons in sidebar
-show_downloads: true
+show_downloads: false
 # (boolean) Enable/disable bwfsidebar text in sidebar
 show_bwfsidebar: true
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
