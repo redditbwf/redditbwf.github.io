@@ -1,3 +1,16 @@
+<!--
+The Markdown is not processed because first the Liquid (include tag) gets processed, inserting mycontent.md into the HTML file. 
+Then the Markdown would get processed.
+But because the content is included into an HTML page, the Markdown isn’t rendered. 
+The Markdown filter processes content only in Markdown files.
+https://jekyllrb.com/tutorials/orderofinterpretation/#markdown-in-include-file-not-processed
+
+
 <div markdown="1">
   {{ ingochris/bwfsidebar.md }}
+</div>
+-->
+
+<div>
+  {% include ingochris/bwfsidebar.md %}
 </div>
