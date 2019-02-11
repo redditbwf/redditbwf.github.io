@@ -1,3 +1,6 @@
+---
+layout: default
+---
 **Getting Started?**
 
 **Try the [Recommended Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) (RR)**
