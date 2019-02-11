@@ -1,10 +1,10 @@
 <p><strong>Getting Started?</strong></p>
 
-<p><strong>Try the <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine">Recommended Routine</a> (RR)</strong></p>
+<p><strong>Try the <a href="{{ site.github.repository_url }}/wiki/kb/recommended_routine">Recommended Routine</a> (RR)</strong></p>
 
-<p><strong>Read our official <a href="http://www.reddit.com/r/bodyweightfitness/wiki/faq">FAQ</a> before posting!</strong></p>
+<p><strong>Read our official <a href="{{ site.github.repository_url }}/wiki/faq">FAQ</a> before posting!</strong></p>
 
-<p><strong>See the <a href="https://www.reddit.com/r/bodyweightfitness/wiki/">BWF Wiki</a> for more programs</strong></p>
+<p><strong>See the <a href="{{ site.github.repository_url }}/wiki/">BWF Wiki</a> for more programs</strong></p>
 
 <hr />
 
@@ -17,17 +17,17 @@
 <h4 id="bodyweighttraininginfo">Bodyweight Training Info</h4>
 
 <ul>
-<li><strong><a href="http://www.reddit.com/r/bodyweightfitness/wiki/faq">Bodyweight Fitness FAQ</a></strong></li>
+<li><strong><a href="{{ site.github.repository_url }}/wiki/faq">Bodyweight Fitness FAQ</a></strong></li>
 
-<li><a href="https://www.reddit.com/r/bodyweightfitness/wiki/training_guide">Training Guide</a></li>
+<li><a href="{{ site.github.repository_url }}/wiki/training_guide">Training Guide</a></li>
 
-<li><a href="http://www.reddit.com/r/bodyweightfitness/wiki/playground">Exercise Progressions</a></li>
+<li><a href="{{ site.github.repository_url }}/wiki/playground">Exercise Progressions</a></li>
 
-<li><a href="http://www.reddit.com/r/bodyweightfitness/wiki/weekly/conceptwednesday">Theory Discussions</a></li>
+<li><a href="{{ site.github.repository_url }}/wiki/weekly/conceptwednesday">Theory Discussions</a></li>
 
-<li><a href="http://www.reddit.com/r/bodyweightfitness/wiki/weekly/techniquethursday">Technique &amp; Form</a></li>
+<li><a href="{{ site.github.repository_url }}/wiki/weekly/techniquethursday">Technique &amp; Form</a></li>
 
-<li><a href="http://www.reddit.com/r/bodyweightfitness/wiki/past_amas">Past AMAs</a></li>
+<li><a href="{{ site.github.repository_url }}/wiki/past_amas">Past AMAs</a></li>
 </ul>
 
 <h4 id="socialmedia">Social Media</h4>
