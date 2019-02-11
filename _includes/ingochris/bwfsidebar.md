@@ -1,4 +1,3 @@
-{{
 **Getting Started?**
 
 **Try the [Recommended Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) (RR)**
@@ -29,4 +28,3 @@ We do not frown on weights or barbells as another tool for training.
 * [Facebook](https://www.facebook.com/redditbwf)
 * [Instagram](https://www.instagram.com/redditbwf)
 * [Twitter](https://www.twitter.com/redditbwf)
-}}
