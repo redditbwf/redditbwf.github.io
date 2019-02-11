@@ -1,30 +1,43 @@
-**Getting Started?**
+<p><strong>Getting Started?</strong></p>
 
-**Try the [Recommended Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) (RR)**
+<p><strong>Try the <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine">Recommended Routine</a> (RR)</strong></p>
 
-**Read our official [FAQ](http://www.reddit.com/r/bodyweightfitness/wiki/faq) before posting!**
+<p><strong>Read our official <a href="http://www.reddit.com/r/bodyweightfitness/wiki/faq">FAQ</a> before posting!</strong></p>
 
-**See the [BWF Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/) for more programs**
+<p><strong>See the <a href="https://www.reddit.com/r/bodyweightfitness/wiki/">BWF Wiki</a> for more programs</strong></p>
 
-***
+<hr />
 
-Bodyweightfitness is for redditors who like to use their own body to train, from the simple pullups, pushups, and squats to the advanced bodyweight movements like the planche, one arm chin-ups, or single leg squats.
+<p>Bodyweightfitness is for redditors who like to use their own body to train, from the simple pullups, pushups, and squats to the advanced bodyweight movements like the planche, one arm chin-ups, or single leg squats.</p>
 
-We do not frown on weights or barbells as another tool for training.
-***
+<p>We do not frown on weights or barbells as another tool for training.</p>
 
-####Bodyweight Training Info
-* **[Bodyweight Fitness FAQ](http://www.reddit.com/r/bodyweightfitness/wiki/faq)**
-* [Training Guide](https://www.reddit.com/r/bodyweightfitness/wiki/training_guide)
-* [Exercise Progressions](http://www.reddit.com/r/bodyweightfitness/wiki/playground)
-* [Theory Discussions](http://www.reddit.com/r/bodyweightfitness/wiki/weekly/conceptwednesday)
-* [Technique & Form](http://www.reddit.com/r/bodyweightfitness/wiki/weekly/techniquethursday)
-* [Past AMAs](http://www.reddit.com/r/bodyweightfitness/wiki/past_amas)
+<hr />
 
+<h4 id="bodyweighttraininginfo">Bodyweight Training Info</h4>
 
-####Social Media
+<ul>
+<li><strong><a href="http://www.reddit.com/r/bodyweightfitness/wiki/faq">Bodyweight Fitness FAQ</a></strong></li>
 
-* [Discord Chat Room](https://discordapp.com/invite/bwf)
-* [Facebook](https://www.facebook.com/redditbwf)
-* [Instagram](https://www.instagram.com/redditbwf)
-* [Twitter](https://www.twitter.com/redditbwf)
+<li><a href="https://www.reddit.com/r/bodyweightfitness/wiki/training_guide">Training Guide</a></li>
+
+<li><a href="http://www.reddit.com/r/bodyweightfitness/wiki/playground">Exercise Progressions</a></li>
+
+<li><a href="http://www.reddit.com/r/bodyweightfitness/wiki/weekly/conceptwednesday">Theory Discussions</a></li>
+
+<li><a href="http://www.reddit.com/r/bodyweightfitness/wiki/weekly/techniquethursday">Technique &amp; Form</a></li>
+
+<li><a href="http://www.reddit.com/r/bodyweightfitness/wiki/past_amas">Past AMAs</a></li>
+</ul>
+
+<h4 id="socialmedia">Social Media</h4>
+
+<ul>
+<li><a href="https://discordapp.com/invite/bwf">Discord Chat Room</a></li>
+
+<li><a href="https://www.facebook.com/redditbwf">Facebook</a></li>
+
+<li><a href="https://www.instagram.com/redditbwf">Instagram</a></li>
+
+<li><a href="https://www.twitter.com/redditbwf">Twitter</a></li>
+</ul>
